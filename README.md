@@ -2,11 +2,11 @@
 
 ---
 
-- 🔎 I am currently looking for a 6 month fullstack internship starting in September 2021.
+- 🔎 I'm currently looking for a 6 month fullstack internship starting in September 2021.
 
 - 💻 I’m learning React.js and Node.js at WildCodeScool.
 
-- 📖 I’m currently working on a reading app for children.
+- 📖 I’m working on a reading app for children.
 
 - 📧 How to reach me: leduc.emeline@hotmail.fr
 
