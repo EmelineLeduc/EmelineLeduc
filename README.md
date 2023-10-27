@@ -2,9 +2,9 @@
 
 ---
 
-- 🔎 I'm currently looking for a 6 month fullstack internship starting in September 2021.
+- 💻 I am currently working as a full stack developer in a digital learning company.
 
-- 💻 I’m learning React.js and Node.js at WildCodeScool.
+- 🎓 I hold a diploma in 'Application Developer and Designer' from the RNCP.
 
 - 📖 I’m working on a reading app for children.
 
